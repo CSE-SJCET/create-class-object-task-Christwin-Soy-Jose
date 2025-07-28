@@ -16,7 +16,7 @@
      } 
     public class Main {
       public static void main(String[] args) {
-        Student student1= new Student("chris",28,"A");
+        Student student1= new Student("chris",28,'A');
           student1.displayDetails();
     }
 }
