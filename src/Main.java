@@ -8,7 +8,7 @@
         this.grade = grade;
     }
      
-     void displayDetails(){
+    public void displayDetails(){
           System.out.println("Name:"+name);
           System.out.println("Grade:"+grade);
           System.out.println("rollnumber:"+rollNumber);
